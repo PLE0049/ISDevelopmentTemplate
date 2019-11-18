@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamScheduler", "TeamScheduler\TeamScheduler.csproj", "{8D7BC5E5-A63D-44EE-8520-DF5B48BEA1FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamScheduler.Web", "TeamScheduler\TeamScheduler.Web.csproj", "{8D7BC5E5-A63D-44EE-8520-DF5B48BEA1FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamScheduler.Core", "TeamScheduler.Core\TeamScheduler.Core.csproj", "{ED9BB6D0-9217-49FC-882B-B3AC953EDA5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamScheduler.Core", "TeamScheduler.Core\TeamScheduler.Core.csproj", "{ED9BB6D0-9217-49FC-882B-B3AC953EDA5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamScheduler.Infrastructure", "TeamScheduler.Infrastructure\TeamScheduler.Infrastructure.csproj", "{03851299-A7B2-43F0-80CA-FC0015A5E7EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamScheduler.Infrastructure", "TeamScheduler.Infrastructure\TeamScheduler.Infrastructure.csproj", "{03851299-A7B2-43F0-80CA-FC0015A5E7EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

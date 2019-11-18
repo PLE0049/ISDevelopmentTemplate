@@ -18,12 +18,6 @@ namespace TeamScheduler.Controllers
         {
             UserService = userService;
         }
-        // GET: api/User
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
 
         // GET: api/User/5
         [HttpGet("{id}", Name = "Get")]
